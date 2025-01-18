@@ -1,4 +1,4 @@
-![screenshot](Anti-Fraud-Center-Dataset/Fraud-Prevention-Trends-Banner-S.png)
+![screenshot](Fraud-Prevention-Trends-Banner-S.png)
 
 # Anti-Fraud-Centre-Dataset
 
